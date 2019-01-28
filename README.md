@@ -1,3 +1,3 @@
 # CustomStyle
 
-Change theme
+Change day/night theme
